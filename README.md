@@ -1,2 +1,2 @@
 # java
-java programing
+Java programing 
